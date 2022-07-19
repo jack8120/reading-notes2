@@ -10,3 +10,5 @@ Here you can find links to subjects covered so far in the course
 - [Markdown](https://jack8120.github.io/reading-notes2/102/Markdown)
 
 - [Text Editors](https://jack8120.github.io/reading-notes2/102/TextEditors)
+
+- [Git](https://jack8120.github.io/reading-notes2/102/gitIntro)
