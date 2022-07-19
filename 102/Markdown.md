@@ -27,4 +27,4 @@ the table below shows some common examples
 | Code	  | `code` |
 | Horizontal Rule | 	--- | 
 | Link	    | [title](https://www.example.com) |
-| Image	 | '![alt text](image.jpg)' |
+| Image	 | `![alt text](image.jpg)` |
