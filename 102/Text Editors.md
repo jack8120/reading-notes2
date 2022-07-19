@@ -6,10 +6,10 @@ What features should you look for in a text editor?
 
 I would say some of the most important features are: 
 
-1.) Code completion 
-2.) Syntax highlighting
-3.) Variety of themes (to reduce eye strain and fatigue) 
-4.) Selection of extensions 
+1. Code completion 
+2. Syntax highlighting
+3. Variety of themes (to reduce eye strain and fatigue) 
+4. Selection of extensions 
 
 "basic" editors like notepad were not designed for web development and lack the 
 functionality and efficiecies offered by coding-specific text editors.
