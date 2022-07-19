@@ -11,6 +11,7 @@ the table below shows some common examples
 ## Element	Markdown Syntax
 
 | Syntax | Desrciption |
+|--------|-------------|
 | Heading|	# H1 |
 | ##     | H2 |
 | ###    | H3 |
